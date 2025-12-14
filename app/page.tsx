@@ -282,7 +282,7 @@ export default function Home() {
         <footer className="mt-8 md:mt-12 pt-6 border-t border-gray-200 text-center text-gray-600 text-sm">
           <p className="mb-2">Note: BMI is a screening tool and does not diagnose health conditions.</p>
           <p>Formula: BMI = weight(kg) / height(m)²</p>
-          <p className="mt-4">© 2024 Health Fit Tracker - Group 7 Project</p>
+          <p className="mt-4">© 2025 Health Fit Tracker - Group 7 Project</p>
         </footer>
       </div>
     </div>
